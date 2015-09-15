@@ -1,0 +1,39 @@
+{
+  "name": "passport-act-on",
+  "version": "0.0.1",
+  "description": "Act-On OAuth 2.0 authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "act-on",
+    "oauth2",
+    "auth",
+    "authentication",
+    "identity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Growmies/passport-act-on.git"
+  },
+  "bugs": {
+    "url": "http://github.com/Growmies/passport-act-on/issues"
+  },
+  "author": {
+    "name": "Andrew Bliss",
+    "email": "andrew@grow.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/Growmies/passport-act-on"
+}
