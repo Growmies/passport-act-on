@@ -1,5 +1,5 @@
 {
-  "name": "passport-act-on",
+  "name": "@grow/passport-act-on",
   "version": "0.0.1",
   "description": "Act-On OAuth 2.0 authentication strategy for Passport.",
   "keywords": [
